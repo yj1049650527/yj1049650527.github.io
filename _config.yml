@@ -62,7 +62,7 @@ include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 port: 4002
 
-imagepath: /BlogDemo
+imagepath: 
 
 links:
   - name:         Home
